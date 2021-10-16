@@ -1,0 +1,37 @@
+* 68 Cyg                           
+* 14 Cep                           
+* lam Cep                          
+HD 188209                          
+HD 202214                          
+* 19 Cep                           
+* alf Cam                          
+* ksi Per                          
+* lam Ori                          
+* lam Ori A                        
+* del Ori                          
+* tet01 Ori C                      
+* iot Ori                          
+* ups Ori                          
+* sig Ori                          
+* zet Ori                          
+* mu. Col                          
+* 15 Mon                           
+HD 55879                           
+* 29 CMa                           
+* tau CMa                          
+* zet Pup                          
+* 10 Lac                           
+HD 151804                          
+HD 155806                          
+HD 159176                          
+* sig Sco                          
+* tet Oph                          
+* 15 Sgr                           
+* zet Oph                          
+HD 75759                           
+* gam02 Vel                        
+HD 112244                          
+HD 135591                          
+* del Cir                          
+HD 150136                          
+* mu. Nor                          
